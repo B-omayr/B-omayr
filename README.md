@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🏫 Computer Science Student at 1337 Khouribga
+
 👨‍💻 I’m currently learning deeply about C language
 
 
