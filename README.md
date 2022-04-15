@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi Everyone 👋 I'm Ibrahim Omayr
 
-🏫 Computer Science Student at 1337 Khouribga
+🏫 I'm a Computer Science Student at 1337 Khouribga
 
 👨‍💻 I’m currently learning deeply about C language
 
