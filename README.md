@@ -1,5 +1,7 @@
 ### Hi Everyone 👋 I'm Ibrahim Omayr
 
+🔭 I’m currently working on Minishell
+
 🏫 I'm a Computer Science Student at 1337 Khouribga
 
 👨‍💻 I’m currently learning deeply about C language
